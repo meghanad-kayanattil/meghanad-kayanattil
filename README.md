@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Doctoral researcher studying laser-induced micro explosions to better understand the properties of liquids. I extensively do image processing and analysis along with a multitude of data science projects as part of my Ph.D. as well as a hobby. I will be sharing some of my works when I can (as when they become less confidential). Watch this space for more 😄
+
 <!--
 **meghanad-kayanattil/meghanad-kayanattil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

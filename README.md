@@ -12,7 +12,9 @@ For computer vision related projects visit : [Link]()
 
 I will be sharing more of my works when I can (since some are part of scientific publications). Watch this space for more 😄
 
-If you find my work interesting and would like to contact, find me in ![href = https://www.linkedin.com/in/meghanad-kayanattil/]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+If you find my work interesting and would like to contact, find me in <a href="https://www.linkedin.com/in/meghanad-kayanattil/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 <!--
 **meghanad-kayanattil/meghanad-kayanattil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

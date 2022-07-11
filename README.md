@@ -4,7 +4,7 @@ I am a Doctoral researcher studying laser-induced micro explosions to better und
 
 I am interested in the application of machine learning tools (when and if needed) in deriving solutions to complex problems in fields such as finance, autonomus driving (computer vision) and smart farming. 
 
-If you are interested in knowing more about my PhD work you can find some tit-bits here : [Linlk](https://github.com/meghanad-kayanattil/Electron-diffraction)
+If you are interested in knowing more about my PhD work you can find some tit-bits here : [Link](https://github.com/meghanad-kayanattil/Electron-diffraction)
 
 If you are interested in knowing more about my data science projects in finance, they can be found here : [Link]()
 

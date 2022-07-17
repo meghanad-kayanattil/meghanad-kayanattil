@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-I am a Doctoral researcher studying laser-induced micro explosions to better understand the properties of liquids. I extensively do image processing and analysis along with a multitude of data science projects as part of my Ph.D. as well as a hobby. 
+I am a Doctoral researcher at one of the [Max-Planck Institute](https://www.mpsd.mpg.de/en) studying laser-induced micro explosions to better understand the properties of liquids. I extensively do image processing and analysis along with a multitude of data science projects as part of my Ph.D. as well as a hobby. 
 
 I am interested in the application of machine learning tools (when and if needed) in deriving solutions to complex problems in fields such as finance, autonomus driving (computer vision) and smart farming. 
 
-If you are interested in knowing more about my PhD work you can find some tit-bits here : [Link](https://github.com/meghanad-kayanattil/Electron-diffraction)
+## Projects related to my Ph.D 
 
-If you are interested in knowing more about my data science projects in finance, they can be found here : [Link]()
+- [Electron diffraction simulation](https://github.com/meghanad-kayanattil/Electron-diffraction)
+- [2D plot to 3D surface creation](https://github.com/meghanad-kayanattil/2D-to-3D-by-rotation-about-an-axis)
 
-For computer vision related projects visit : [Link]()
+## Machine learning and other data science projects
 
 I will be sharing more of my works when I can (since some are part of scientific publications). Watch this space for more 😄
 
 If you find my work interesting and would like to contact, find me: 
+
 <p align='center'>
 <a href="https://www.linkedin.com/in/meghanad-kayanattil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>

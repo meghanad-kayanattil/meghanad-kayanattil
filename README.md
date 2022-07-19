@@ -11,6 +11,9 @@ I am interested in the application of machine learning tools (when and if needed
 
 ## Machine learning and other data science projects
 
+- [A combination of smaller projects](https://github.com/meghanad-kayanattil/Data_Science_Python_notebooks)
+
+
 I will be sharing more of my works when I can (since some are part of scientific publications). Watch this space for more 😄
 
 If you find my work interesting and would like to contact, find me: 

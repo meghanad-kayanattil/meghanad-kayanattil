@@ -2,14 +2,14 @@
 
 I am a Doctoral researcher at the [Max-Planck Institute](https://www.mpsd.mpg.de/en) studying laser-induced micro explosions to better understand the properties of liquids. I extensively do image processing and analysis along with a multitude of data science projects as part of my Ph.D. as well as a hobby. 
 
-I am interested in the application of machine learning tools (when and if needed) in deriving solutions to complex problems in fields such as finance, autonomus driving (computer vision) and smart farming. 
+I am interested in the application of machine learning tools (when and if needed) in deriving solutions to complex problems in fields such as finance (anomaly detection, credit approval etc..), computer vision and natural language processing. **Especially NLP!** :) 
 
 ## Projects related to my Ph.D 
 
 - [Electron diffraction simulation](https://github.com/meghanad-kayanattil/Electron-diffraction)
 - [2D plot to 3D surface creation](https://github.com/meghanad-kayanattil/2D-to-3D-by-rotation-about-an-axis)
 
-## Machine learning and other data science projects
+## Other machine learning and data science projects
 
 - [A combination of smaller projects](https://github.com/meghanad-kayanattil/Data_Science_Python_notebooks)
 

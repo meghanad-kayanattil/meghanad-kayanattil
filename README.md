@@ -6,6 +6,7 @@ I am interested in the application of machine learning tools (when and if needed
 
 ## Deployment ready ML projects
 - [Sentiment analysis for motorcycle based on reddit comments](https://github.com/meghanad-kayanattil/motorcycle-sentiment)
+- [Simple speech to text transcriber app using Streamlit](https://github.com/meghanad-kayanattil/personal-transcriber-with-minimum-effort)
 
 ## Projects related to my Ph.D 
 

@@ -2,7 +2,7 @@
 
 I am a Doctoral researcher at the [Max-Planck Institute](https://www.mpsd.mpg.de/en) studying laser-induced micro explosions to better understand the properties of liquids. I extensively do image processing and analysis along with a multitude of data science projects as part of my Ph.D. as well as a hobby. 
 
-I am interested in applying machine learning tools (when and if needed) in deriving solutions to complex problems. Mainly focused on the full-stack approach from creating data pipelines to final deployment. Currently, I am focused on projects involving NLP. :) 
+I am interested in applying machine learning tools (when and if needed) in deriving solutions to complex problems. Mainly focused on the full-stack approach from creating data pipelines to modeling and deployment. Currently, I am focused on projects involving NLP. :) 
 
 ## Deployment ready ML projects
 - [Sentiment analysis for motorcycle based on reddit comments](https://github.com/meghanad-kayanattil/motorcycle-sentiment)

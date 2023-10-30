@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Doctoral researcher at the [Max-Planck Institute](https://www.mpsd.mpg.de/en) studying laser-induced micro explosions to better understand the properties of liquids. I extensively do image processing and analysis along with a multitude of data science projects as part of my Ph.D. as well as a hobby. 
+I did my Ph.D. at the [Max-Planck Institute](https://www.mpsd.mpg.de/en) studying laser-induced micro explosions to better understand the properties of liquids. I extensively did image processing and analysis along with a multitude of data science projects as part of my Ph.D. as well as a hobby. 
 
-I am interested in applying machine learning tools (when and if needed) in deriving solutions to complex problems. Mainly focused on the full-stack approach from creating data pipelines to modeling and deployment. Currently, I am focused on projects involving NLP. :) 
+I am interested in the seamless integration of software and state-of-the-art hardware to solve difficult problems. 
 
 ## Deployment ready ML projects
 - [Sentiment analysis for motorcycle based on reddit comments](https://github.com/meghanad-kayanattil/motorcycle-sentiment)
@@ -16,11 +16,6 @@ I am interested in applying machine learning tools (when and if needed) in deriv
 ## Other machine learning and data science projects
 
 - [A combination of smaller projects](https://github.com/meghanad-kayanattil/Data_Science_Python_notebooks)
-
-
-I will be sharing more of my works when I can (since some are part of scientific publications). Watch this space for more 😄
-
-If you find my work interesting or if you would like to hire a data scientist with machine learning and programming expertise, find me: 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/meghanad-kayanattil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
